@@ -1,0 +1,2 @@
+rootProject.name = "ScriptureApp"
+include ':app'
